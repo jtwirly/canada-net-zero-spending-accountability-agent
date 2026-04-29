@@ -48,4 +48,5 @@ This is a prototype and AI can make mistakes.
 ## Video and Images from Previous Iteration
 https://www.loom.com/share/0c5e2328f8a4473d981fdafdc8a90be2
 <img width="1041" height="542" alt="Screenshot 2026-04-29 at 2 35 23 PM" src="https://github.com/user-attachments/assets/e2ae0835-a026-484b-b1ab-a1e68a9855b9" />
+<img width="993" height="579" alt="Screenshot 2026-04-29 at 2 51 05 PM" src="https://github.com/user-attachments/assets/c880b540-112e-45c9-b6f9-e3784c98cd91" />
 
