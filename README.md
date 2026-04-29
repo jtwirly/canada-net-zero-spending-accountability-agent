@@ -13,7 +13,6 @@ Description: Canada's Net-Zero Spending Accountability Agent is an AI-powered an
 <img width="969" height="593" alt="Screenshot 2026-04-29 at 2 40 34 PM" src="https://github.com/user-attachments/assets/cd298069-77b5-4483-8c63-65ea0deab05d" />
 <img width="966" height="587" alt="Screenshot 2026-04-29 at 2 41 04 PM" src="https://github.com/user-attachments/assets/0bd23680-c20b-4dae-a880-423388ea84d5" />
 <img width="969" height="586" alt="Screenshot 2026-04-29 at 2 41 42 PM" src="https://github.com/user-attachments/assets/cc229d9e-31d4-4c23-a8e9-066f1a1a3335" />
-<img width="967" height="591" alt="Screenshot 2026-04-29 at 2 41 22 PM" src="https://github.com/user-attachments/assets/b922923d-7860-4f9b-9c06-67ac5c760ffd" />
 <img width="977" height="590" alt="Screenshot 2026-04-29 at 2 41 58 PM" src="https://github.com/user-attachments/assets/b22cd01d-aadf-425b-97d9-a0fbc37e5ae6" />
 <img width="963" height="494" alt="Screenshot 2026-04-29 at 2 42 14 PM" src="https://github.com/user-attachments/assets/391d9cc3-3a33-45d4-98e4-d77c9fd1d7b3" />
 <img width="707" height="363" alt="Screenshot 2026-04-29 at 2 44 11 PM" src="https://github.com/user-attachments/assets/e8d0978d-c189-4956-9cfe-230bc47dc2d4" />
