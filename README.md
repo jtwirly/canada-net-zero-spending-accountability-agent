@@ -1,4 +1,4 @@
-<img width="707" height="363" alt="Screenshot 2026-04-29 at 2 44 11 PM" src="https://github.com/user-attachments/assets/97be1bba-33de-4cd5-99a3-aa1064e8406f" /># Canada Net-Zero Spending Accountability Agent
+# Canada Net-Zero Spending Accountability Agent
 
 An AI-powered accountability tool that queries 1.27M federal grants and contributions records (2006–2025) to evaluate whether Canada's spending aligns with its legal obligations under the Canadian  Net-Zero Emissions Accountability Act (2021).
 
