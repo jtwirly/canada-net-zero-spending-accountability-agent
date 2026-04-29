@@ -22,10 +22,9 @@ Federal Grants & Contributions — Government of Canada Open Data Portal
 Via the GovAlta/agency-26-hackathon PostgreSQL database: https://github.com/GovAlta/agency-26-hackathon/tree/main
 
 ## Policy framework
-- Canadian Net-Zero Emissions Accountability Act (S.C. 2021, c. 22)
-- Canada's 2030 NDC: 36–44% reduction below 2005 levels
-- Canada's 2035 NDC: 40–49% reduction below 2005 levels
-- Climate Action Tracker assessment (Oct 2025): Canada's climate action is Highly Insufficient
+- Canadian Net-Zero Emissions Accountability Act (S.C. 2021, c. 22) https://laws-lois.justice.gc.ca/eng/acts/c-19.3/fulltext.html
+- Canada's Nationally Defined Contributions (NDCs) - 2030 NDC: 36–44% reduction below 2005 levels; 2035 NDC: 40–49% reduction below 2005 levels https://unfccc.int/sites/default/files/2025-02/Canada%27s%202035%20Nationally%20Determined%20Contribution_ENc.pdf
+- Climate Action Tracker assessment (Oct 2025): Canada's climate action is Highly Insufficient https://climateactiontracker.org/countries/canada/2035-ndc/
 
 ## Built with
 - StackAI — agent framework and PostgreSQL tool
