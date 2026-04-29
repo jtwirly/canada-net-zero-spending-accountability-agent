@@ -6,8 +6,7 @@ Canada Net-Zero Spending Accountability Agent: https://www.stackai.com/chat/69f2
 
 Sample output: https://www.stackai.com/chat/69f2296d4d67063ef2569ec9-3U22uBuvmOoCDs55QLuvlo/share/69d4a905-8871-4869-b3dc-cb94e691b051?title=Canada%27s+federal+spending+and+Net-Zero+targets&date=2026-04-29T17%3A45%3A51.429Z
 
-Video: 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/0c5e2328f8a4473d981fdafdc8a90be2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+Video: https://www.loom.com/share/0c5e2328f8a4473d981fdafdc8a90be2
 
 Description: Canada's Net-Zero Spending Accountability Agent is an AI-powered analyst that queries 1.27 million federal grants and contributions records (2006–2025) to evaluate whether Canada's actual spending aligns with its legal obligations under the Canadian Net-Zero Emissions Accountability Act (2021). The agent classifies federal spending as emissions-reducing or emissions-increasing, identifies the projects and recipients most aligned and misaligned with Canada's 2030 NDC targets, and delivers a plain-language verdict grounded in real dollar amounts from the data. Built on StackAI with a live PostgreSQL connection to the hackathon database, it makes climate accountability queryable by anyone.
 
